@@ -1,7 +1,8 @@
 # ================= Python & Environments =================
 venv/
 .venv/
-data_pipeline/venv/
+**/venv/
+**/__pycache__/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -9,7 +10,7 @@ __pycache__/
 
 # ================= Node / React Frontend =================
 node_modules/
-client/node_modules/
+**/node_modules/
 client/dist/
 client/build/
 npm-debug.log*
@@ -24,6 +25,7 @@ yarn-error.log*
 
 # ================= Pipeline Logs =========================
 logs/
+**/logs/
 *.log
 
 # ================= Ephemeral Pipeline Data ===============
@@ -36,6 +38,7 @@ data_pipeline/nba_live_data/injuries/*.csv
 
 # ================= OS & Editor Clutter ===================
 .DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
 ._*
