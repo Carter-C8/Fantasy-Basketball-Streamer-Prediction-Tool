@@ -43,3 +43,9 @@ data_pipeline/nba_live_data/injuries/*.csv
 .idea/
 *.swp
 *.swo
+**/.DS_Store
+.DS_Store
+**/__pycache__/
+*.py[cod]
+logs/
+*.log
