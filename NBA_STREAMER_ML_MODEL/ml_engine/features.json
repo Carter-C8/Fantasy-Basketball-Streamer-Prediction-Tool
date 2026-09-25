@@ -1,0 +1,23 @@
+[
+        "FP_ROLLING_3",
+        "FP_ROLLING_4",
+        "FP_ROLLING_10",
+        "FP_PER_MIN_10",
+        "MIN_ROLLING_3",
+        "MIN_ROLLING_4",
+        "MIN_ROLLING_10",
+        "PTS_ROLLING_4",
+        "REB_ROLLING_4",
+        "AST_ROLLING_4",
+        "STL_ROLLING_4",
+        "BLK_ROLLING_4",
+        "TOV_ROLLING_4",
+        "FG3M_ROLLING_4",
+        "TEAM_VACATED_MINUTES",
+        "TEAM_VACATED_PTS",
+        "TEAM_VACATED_REB",
+        "TEAM_VACATED_AST",
+        "OPP_DEF_RTG_10",
+        "OPP_PACE_10",
+        "HOME_GAME"
+    ]
